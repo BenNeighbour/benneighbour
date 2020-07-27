@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there, I'm Ben!
+#### 🔭 I’m currently working on some personal-projects, and soon creating a full AirBnb Clone...
+#### 🌱 I’m currently learning the ELK Stack, alongside Spring Boot/Cloud Netflix as well as React (Typescript!)
 
 <!--
 **BenNeighbour/benneighbour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
