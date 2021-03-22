@@ -31,6 +31,7 @@
 
 ## → My Sponsors
 Thank you to all of those that sponsor me, I really appreciate it!
+- [LucasSaragosa](https://github.com/LucasSaragosa) <br />
 - [corpm014](https://github.com/corpm014) <br />
 - [TheXichao](https://github.com/TheXichao) <br />
 - [leoof](https://github.com/leoof) <br />
