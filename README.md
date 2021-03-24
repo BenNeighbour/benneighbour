@@ -30,7 +30,7 @@
 
 
 ## → My Sponsors
-Thank you to all of those that sponsor me, I really appreciate it!
+Thank you to all of those that sponsor me, I really appreciate it! Check their profile out!
 - [LucasSaragosa](https://github.com/LucasSaragosa) <br />
 - [corpm014](https://github.com/corpm014) <br />
 - [TheXichao](https://github.com/TheXichao) <br />
